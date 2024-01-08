@@ -4,9 +4,14 @@ SQL project to analyze online music store data
 
 ![MusicDatabaseSchema](https://github.com/ankur3929/PostresSQL_Data_Analysis/assets/75058933/e994f5c4-5863-40eb-b7ee-a2a6332ed3b0)
 
+# Database and Tools
+Postgre SQL
+PgAdmin4
 
 
-Analysis is to be done on keeping below points : 
+
+# Analysis is to be done on keeping below points : 
+
 
 Q1: Who is the senior most employee based on job title? 
 
