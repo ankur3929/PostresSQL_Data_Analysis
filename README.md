@@ -1,4 +1,6 @@
-# PostresSQL_Data_Analysis
+# PostresSQL_Data_Analysis : Music_Store
+
+SQL project to analyze online music store data
 
 Analysis is to be done on keeping below points : 
 
